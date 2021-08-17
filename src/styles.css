@@ -9,3 +9,23 @@ body,
 html {
   font-family: "Roboto", sans-serif;
 }
+/* MEDIA QUERY SMALL_SIZE */
+@media all and (min-width: 300px) and (max-width: 599px) {
+  body {
+    width: 340%;
+  }
+}
+
+/* MEDIA QUERY LARGE_SIZE */
+/* @media all and (min-width: 600px) and (max-width: 899px) {
+  body {
+    width: 175%;
+  }
+} */
+
+/* MEDIA QUERY LARGE_SIZE */
+/* @media all and (min-width: 900px) and (max-width: 1300px) {
+  body {
+    width: 145%;
+  }
+} */

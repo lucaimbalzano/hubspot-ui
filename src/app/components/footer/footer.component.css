@@ -87,3 +87,7 @@ footer .privacy {
   display: table;
   clear: both;
 }
+
+.col-25 {
+  margin: 30px;
+}

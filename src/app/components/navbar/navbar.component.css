@@ -15,9 +15,7 @@
 }
 /* CLEARFIX */
 
-/* AZZERAMENTO E REGOLE GENERALI*/
-
-/* UTILITY PER PADDING E MARGIN*/
+/* UTILITY FOR PADDING AND MARGIN*/
 .pr-12 {
   padding-right: 12px;
 }
@@ -50,9 +48,7 @@
   margin-right: 50px;
 }
 
-/* UTILITY PER PADDING E MARGIN*/
-
-/* UTILITY PER LAYOUT*/
+/* UTILITY FOR LAYOUT*/
 .col-100 {
   width: 100%;
 }
@@ -72,9 +68,8 @@
 .col-25 {
   width: 25%;
 }
-/* UTILITY PER LAYOUT*/
 
-/* UTILITY PER BUTTONS */
+/* UTILITY FOR BUTTONS */
 .button {
   border: 1px solid #fe775a;
   border-radius: 3px;
@@ -106,8 +101,6 @@
 .btn-big {
   padding: 18px 38px;
 }
-/* UTILITY PER BUTTONS */
-
 /* HEADER - NAV*/
 .nav-first {
   /* padding: 20px 0; */
@@ -186,7 +179,7 @@ nav .ul-right .fa-search {
 .menu {
   display: inline-block;
   vertical-align: middle;
-  /* float: right; */
+  margin-left: 30px;
 }
 /* HEADER - NAV*/
 
@@ -234,275 +227,3 @@ nav .ul-right .fa-search {
   display: inline-block;
 }
 /* JUMBO */
-
-/* PRIMA SEZIONE */
-.first-section {
-  background-color: #f4f9fd;
-  color: #33475b;
-}
-
-.first-section .col-100 {
-  text-align: center;
-  padding: 50px 155px;
-}
-
-.cube {
-  width: 250px;
-}
-
-h2 {
-  font-size: 30px;
-}
-
-p {
-  font-size: 13px;
-}
-
-.crm .col-33 {
-  text-align: center;
-}
-
-.first-section p {
-  line-height: 23px;
-}
-
-.first-section li {
-  font-size: 13px;
-  list-style: none;
-}
-
-.first-section h3 {
-  font-size: 22px;
-  margin-bottom: 30px;
-}
-
-.first-section h4 {
-  text-transform: uppercase;
-  font-size: 17px;
-  display: inline-block;
-}
-
-.first-section ul li:before {
-  content: " \2714";
-  color: #ffffff;
-  font-size: 8px;
-  border-radius: 50%;
-  background-color: #fe775a;
-  padding: 2px 4px;
-  margin-right: 15px;
-}
-/* CRM */
-.first-section .button {
-  display: inline-block;
-}
-
-.row.crm {
-  background-color: #ffffff;
-  border-radius: 5px;
-  box-shadow: 0px 0px 5px 1px #d3d3d3;
-  padding: 58px 0;
-}
-
-.first-section .crm img,
-.first-section .hub img {
-  padding-bottom: 20px;
-  height: 105px;
-  display: block;
-  margin: 0 auto;
-}
-.crm hr {
-  display: inline-block;
-  width: 370px;
-  margin-left: 60px;
-  vertical-align: middle;
-}
-
-.crm p {
-  width: 80%;
-}
-
-.crm ul li {
-  display: inline;
-  padding: 0 16px;
-}
-
-/* HUB */
-.hub [class*="col-"] {
-  background-color: #ffffff;
-  border-radius: 5px;
-  box-shadow: 0px 0px 5px 1px #d3d3d3;
-  padding: 20px 35px;
-  text-align: center;
-}
-
-.hub {
-  padding: 60px 0;
-}
-
-.hub p {
-  padding-bottom: 60px;
-  height: 152px;
-}
-
-.hub ul {
-  text-align: left;
-}
-
-.hub ul,
-.hub h4 {
-  padding-top: 30px;
-}
-
-.hub .button {
-  margin-top: 50px;
-}
-
-.hub .col-33 {
-  width: calc(100% / 3 - 100px / 3);
-}
-/* PRIMA SEZIONE */
-
-/* SECONDA SEZIONE */
-
-.second-section {
-  background-color: #00a6bb;
-  background-image: linear-gradient(to right, #00a6bb, #00bca6);
-  color: #ffffff;
-}
-
-.second-section .learn-and-grow {
-  text-align: center;
-  padding: 40px 0;
-}
-
-.learn-and-grow .subtitle {
-  line-height: 27px;
-}
-
-/* TABLE */
-.second-section table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 10px;
-  margin-bottom: 80px;
-}
-
-.second-section table td {
-  padding: 23px;
-  text-align: center;
-  width: calc(100% / 4);
-}
-
-.second-section table .bordered {
-  border-right: 1px solid #ffffff;
-}
-
-#first-tr {
-  border-bottom: 1px solid #ffffff;
-}
-
-.second-section table .number {
-  font-size: 34px;
-  font-weight: bold;
-  padding: 15px 0;
-}
-
-.second-section i {
-  font-size: 34px;
-}
-
-.second-section table .t-description {
-  font-size: 10px;
-}
-/* TABLE */
-/* SECONDA SEZIONE */
-
-/* TERZA SEZIONE */
-.third-section {
-  color: #33475b;
-}
-
-.third-section .text-ncustomers {
-  padding-top: 52px;
-  padding-left: 75px;
-  padding-right: 75px;
-}
-
-.third-section p {
-  padding: 40px 0;
-  line-height: 23px;
-}
-
-.third-section .number {
-  font-size: 38px;
-  font-weight: bold;
-}
-
-.loghi {
-  padding-top: 50px;
-  padding-left: 52px;
-}
-
-.loghi .col-25 {
-  height: 66px;
-  line-height: 66px;
-}
-
-.loghi .col-25 img {
-  vertical-align: middle;
-}
-
-.third-section .button {
-  display: inline-block;
-}
-
-.third-section .call-to-action {
-  padding-bottom: 10px;
-}
-
-.third-section .text-call-to-action {
-  padding-top: 50px;
-  padding-right: 45px;
-}
-
-.third-section .picture-t {
-  text-align: right;
-}
-
-.third-section .testimonial {
-  margin-top: 27px;
-  height: 280px;
-}
-
-/* ID LOGHI */
-#atlasian {
-  height: 13px;
-}
-
-#doordash {
-  height: 13px;
-}
-
-#crowd {
-  height: 31px;
-}
-
-#purple {
-  height: 39px;
-}
-
-#subaru {
-  height: 40px;
-}
-
-#wistia {
-  height: 19px;
-}
-
-#classpass {
-  height: 37px;
-}
-
-#wm {
-  height: 25px;
-}
