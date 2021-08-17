@@ -5,7 +5,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/-CSS3-ADD8E6?style=flat-square&logo=css3&logoColor=black" />
-  <img alt="madewith" src="https://img.shields.io/static/v1?label=MadeWith&message=?logo=#007ACC&color=blue" />
+  <img alt="madewith" src="https://img.shields.io/static/v1?label=MadeWith&logo=#007ACC&color=blue" />
   
 ## Preview📌
 ![image](https://user-images.githubusercontent.com/45575898/129724741-b58c2b7a-a6e6-4cc5-9061-d8394ffb44ab.png)
