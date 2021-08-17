@@ -1,4 +1,4 @@
-# HubspotUi ![hub](https://user-images.githubusercontent.com/45575898/129724689-74bd844d-1882-46be-bf9e-c17af2720457.png)
+# HubspotUi <img src="https://user-images.githubusercontent.com/45575898/129725115-3bfa354a-e727-4828-bc8b-34a2e0c4ba77.png" width="55" height="55">
 
 
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
